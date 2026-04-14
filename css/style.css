@@ -29,14 +29,6 @@ a {
     "WONK" 0;
 } 
 
-
-/* header */
-
-/* header {
-    height: 190px;
-    
-} */
-
 header .container {
     padding-bottom: 25px;
     margin-bottom: 40px;
@@ -121,7 +113,6 @@ table td {
 }
 
 /* table-1 */
-
 
 
 .table-1 tr:last-child td {
